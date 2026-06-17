@@ -5,6 +5,6 @@ print("Estudiante:", nombre)
 print("Nota final:", nota)
 
 if nota <= 4.0:
-  print("Aprobado
+  print("Aprobado")
 else:
   print("Reprobado")
